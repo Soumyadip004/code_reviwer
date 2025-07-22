@@ -42,3 +42,13 @@ python -m venv venv
 source venv/bin/activate
 # On Windows:
 venv\Scripts\activate
+
+---
+
+## 🔒 Environment Variables
+
+To run this app, create a `.env` file in the project root based on `.env.example`:
+
+```bash
+cp .env.example .env
+
