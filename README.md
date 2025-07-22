@@ -52,3 +52,11 @@ To run this app, create a `.env` file in the project root based on `.env.example
 ```bash
 cp .env.example .env
 
+# 🤖 AI Code Reviewer (Streamlit + Groq)
+
+An interactive AI-powered code review tool built with **Streamlit** and **Groq Cloud** (using the DeepSeek LLaMA model).  
+Easily review code, get improvements, and see complexity analysis instantly!
+
+🚀 **[🌐 Try it live → codereviwer-s.streamlit.app](https://codereviwer-s.streamlit.app/)**  
+
+
